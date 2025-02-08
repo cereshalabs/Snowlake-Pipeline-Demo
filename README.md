@@ -1,4 +1,4 @@
-# sf-tf-demo  
+# Snowlake-Pipeline-Demo  
 **Snowflake and Terraform Gold Standard**  
 
 The ultimate goal of this project is to create a **sample Snowflake project** while adhering to **best practices** in **Terraform, Snowflake, and Azure Cloud**.
