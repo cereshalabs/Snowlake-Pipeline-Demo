@@ -17,3 +17,7 @@ This project sets up a **data ingestion pipeline** using:
 - **GitHub Actions** for **CI/CD automation**.
 
 ---
+When running Terraform, keep in mind that the Snowflake environment variables are stored in snow.env file outside of the project directory.  
+Dont forget to run the following to activate that file prior to runnng terraform plan and terraform apply:  
+
+source ~/repos/snow.env
